@@ -8,11 +8,11 @@ This Nanodegree program asks to apply predictive models to massive data sets in 
 Section | Project | Topics | Status
 --- | --- | --- | ---
 Exploratory Project | [Titanic Survival Exploration](./titanic_survival_exploration) | intro to numpy, scipy, matplotlib, ipython | Done
-Model Evaluation and Validation | [Predicting Boston Housing Prices](./boston_housing) | data reprocessing, learning algorithms training and evaluation, grid search | Done
-Supervised Learning | [Build a Student Intervention System](./student_intervention) | comparison of supervised classification learning algorithms, parameters optimization using grid search | Done
+Model Evaluation and Validation | [Predicting Boston Housing Prices](./boston_house) | data reprocessing, learning algorithms training and evaluation, grid search | Done
+Supervised Learning | [Build a Student Intervention System](./student_intervention_system) | comparison of supervised classification learning algorithms, parameters optimization using grid search | Done
 Supervised Learning | [Finding Donors for CharityML](./finding_donors) | practice and evaluate supervised learning algorithms using `sklearn` | Done
 Unsupervised Learning | [Creating Customer Segments](./creating_customer_segments) | data preprocessing, features PCA, data clustering, interpret clusters | Done
 Reinforcement Learning | [Train a Smartcab to Drive](./smartcab) | reenforcement learning with Q Learning algorithms | Done
-Deep Learning | [Image Classification](./digit_recognition) | Image classification on CIFAR 10 with Deep Neural Network and TensorFlow | - 
-Machine Learning Specializations | [Capstone Project](./capstone) | Image Classification using CNN and Keras | Done
+Deep Learning | [Image Classification](./image_classification) | Image classification on CIFAR 10 with Deep Neural Network and TensorFlow | - 
+Machine Learning Specializations | [Capstone Project](./capstone_project) | Image Classification using CNN and Keras | Done
 
